@@ -1,0 +1,17 @@
+[2026-02-12T20:53:30.090127+00:00] Starting single-session validator
+[2026-02-12T20:53:30.090148+00:00] RUN_ID=20260212-205330
+[2026-02-12T20:53:30.090156+00:00] HEADLESS=False SLOWMO_MS=0
+[2026-02-12T20:53:30.090162+00:00] Target: https://www.att.com/buy/byod/identify?devicetype=phone
+[2026-02-12T20:53:33.420273+00:00] Processing identifier 1/5: 111111111111111
+[2026-02-12T20:53:39.321261+00:00] Result: 111111111111111 -> INVALID | IMEI not found. Please try re-entering.
+[2026-02-12T20:53:39.321313+00:00] Processing identifier 2/5: 222222222222222
+[2026-02-12T20:53:43.807130+00:00] Result: 222222222222222 -> INVALID | IMEI not found. Please try re-entering.
+[2026-02-12T20:53:43.807158+00:00] Processing identifier 3/5: 333333333333333
+[2026-02-12T20:53:47.941990+00:00] Result: 333333333333333 -> INVALID | IMEI not found. Please try re-entering.
+[2026-02-12T20:53:47.942037+00:00] Processing identifier 4/5: 444444444444444
+[2026-02-12T20:53:51.643831+00:00] Result: 444444444444444 -> INVALID | IMEI not found. Please try re-entering.
+[2026-02-12T20:53:51.643863+00:00] Processing identifier 5/5: 555555555555555
+[2026-02-12T20:53:55.419034+00:00] Result: 555555555555555 -> INVALID | IMEI not found. Please try re-entering.
+[2026-02-12T20:53:55.419063+00:00] All identifiers processed successfully
+[2026-02-12T20:53:55.676236+00:00] Saved results JSON: output/run-20260212-205330.json
+[2026-02-12T20:53:55.676251+00:00] Session finished cleanly

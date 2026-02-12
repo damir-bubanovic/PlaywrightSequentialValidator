@@ -1,8 +1,9 @@
-# Run evidence
+## Notes (2026-02-12)
 
-This folder stores console output from two consecutive runs:
+Two consecutive runs (`run-1.txt`, `run-2.txt`) produced consistent results for the same 5 identifiers.
 
-- run-1.txt
-- run-2.txt
-
-Add notes here if any differences appear.
+Stability notes:
+- Single browser session per run
+- Sequential processing in one page/context
+- Deterministic reset per identifier via navigation back to the identify URL
+- DOM-based error detection (“IMEI not found. Please try re-entering.”) captured consistently
