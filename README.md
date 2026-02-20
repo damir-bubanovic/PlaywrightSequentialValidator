@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="src/images/screenshot.png" alt="PlaywrightSequentialValidator run screenshot" width="auto">
+  <img src="./images/screenshot.png" alt="PlaywrightSequentialValidator run screenshot" width="auto">
 </p>
 
 ---
